@@ -1,0 +1,1 @@
+M000 U000 U000 测试信息 YYYY-MM-DD,hh:mm 1
